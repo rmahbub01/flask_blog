@@ -1,0 +1,18 @@
+{
+    "params":{
+        "websitename": "Flask Blog",
+        "tag_line":"Toward Excelency",
+        "fb_url": "https://facebook.com/rmahbub01",
+        "github_url": "https://github.com/rmahbub01",
+        "tw_url": "https://twiteer.com/",
+        "gmail-user": "",
+        "gmail-password": "",
+        "local_uri": "sqlite:///flaskblogdb.db",
+        "prod_uri": "sqlite:///flaskblogdb.db",
+        "no_of_posts":5,
+        "login_image":"login.svg",
+        "admin_user":"rana",
+        "admin_pass": "rana",
+        "upload_location": "C:\\Users\\USER\\Desktop\\flask_blog\\static\\img"
+    }
+}
